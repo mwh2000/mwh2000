@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Mustafa 👋</h1>
-  <h3>Full-Stack Developer | UI/UX Designer</h3>
+  <h3>Mobile app developer | Full-Stack Developer | UI/UX Designer</h3>
 
   <p align="center">
     <a href="https://mwhmustafa.vercel.app/" target="_blank">
